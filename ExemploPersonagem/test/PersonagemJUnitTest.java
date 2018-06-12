@@ -3,7 +3,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * @author Alunos
+ * @author Logan Michel
  */
 public class PersonagemJUnitTest {
     
