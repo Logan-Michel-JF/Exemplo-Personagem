@@ -17,7 +17,7 @@ public class PersonagemJUnitTest {
     }
     
     @Test
-    public void testeDefinirEObter() {
+    public void testeDefinirEObterIdade() { 
         Personagem choji = new Personagem();
         choji.setNome("Choji");
         choji.setIdade((byte) 17);
